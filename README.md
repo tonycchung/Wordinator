@@ -2,11 +2,16 @@
 
 By [Tony Chung](http://www.github.com/tonycchung).
 
-## Usage
-In terminal run:
+## Description
+An anagram checker written in Ruby and using a Sinatra API.
 
-```ruby anagram.rb  
-go to http://localhost:4567/word1/word2 and fill in word1 and word2
+## Usage
+
+```
+ruby anagram.rb
+```
+
+then go to http://localhost:4567/word1/word2 and fill in word1 and word2
 with whatever words you want to check.
 
 ## Contributing
